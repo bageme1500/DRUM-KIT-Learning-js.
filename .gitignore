@@ -1,0 +1,2 @@
+#All the ds_store files are going to be ignored
+*.DS_Store
